@@ -1,5 +1,5 @@
 
-This driver is modification for the Adafruit BNO055 Breakout, and is based on Adafruit's Unified Sensor Library (Adafruit_Sensor).
+This driver is modification on Adafruit's Unified Sensor Library (Adafruit_Sensor).
 
 
 ## What is added? ##
